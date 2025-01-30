@@ -6,7 +6,7 @@ points = [(1, 2), (4, 6), (7, 1), (3, 3), (8, 8)]
 
 def euclideanDistance(point1, point2):
     """
-    İki nokta arasındaki Öklid mesafesini hesaplar.
+   
     :param point1: Birinci nokta (x₁, y₁)
     :param point2: İkinci nokta (x₂, y₂)
     :return: Öklid mesafesi
